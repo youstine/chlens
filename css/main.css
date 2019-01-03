@@ -1,0 +1,25 @@
+/* nav-menu */
+    #nav-menu{
+        position: absolute;
+        z-index: 100;
+    }
+    #logo img{
+        width: 50%;
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+    #menu {
+        font-size: 1.5em;
+    }
+    #menu a{
+        color: #58585b;
+        text-decoration: none;
+    }
+    #menu a:hover{
+        color: #07c9c6;
+    }
+
+/* header-img */
+    #header-img img{
+        width: 100%;
+    }
